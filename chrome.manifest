@@ -1,0 +1,4 @@
+content   proxymob                 chrome/content/
+skin      proxymob   classic/1.0   chrome/skin/
+locale    proxymob   en-US         chrome/locale/en-US/
+overlay chrome://browser/content/browser.xul chrome://proxymob/content/overlay.xul

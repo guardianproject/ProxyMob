@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="proxymob@guardianproject.info"
+                   em:name="Proxy Mobile"
+                   em:version="0.0.5"
+                   em:creator="https://guardianproject.info"
+                   em:description="Proxy Settings :: https://guardianproject.info">
+<em:optionsURL>chrome://proxymob/content/options.xul</em:optionsURL>
+<em:targetApplication>
+  <!-- Fennec -->
+  <Description>
+    <em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
+    <em:minVersion>1.1</em:minVersion>
+    <em:maxVersion>4.*</em:maxVersion>
+  </Description>
+</em:targetApplication>
+  </RDF:Description>
+</RDF:RDF>
+
+

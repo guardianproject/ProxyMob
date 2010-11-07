@@ -1,0 +1,8 @@
+<!ENTITY proxymob.label "Your localized menuitem">
+<!ENTITY proxymobContext.label "Your Menuitem">
+<!ENTITY proxymobContext.accesskey "Y">
+<!ENTITY proxymobToolbarButton.label "Your Toolbar Button">
+<!ENTITY proxymobToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY proxymobSidebar.label "Your Sidebar">
+<!ENTITY proxymobToolbar.name  "example">
+<!ENTITY proxymobToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &proxymobToolbar.name;">
