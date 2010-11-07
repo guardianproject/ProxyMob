@@ -12,7 +12,7 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
-//
+*/
 //this whole code exists because we can't do integer settings in the options.xul file. lame.
 
 var proxymob = {
