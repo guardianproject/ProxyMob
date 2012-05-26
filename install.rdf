@@ -5,7 +5,7 @@
   <RDF:Description RDF:about="urn:mozilla:install-manifest"
                    em:id="proxymob@guardianproject.info"
                    em:name="Proxy Mobile"
-                   em:version="0.0.8"
+                   em:version="0.0.9"
                    em:creator="https://guardianproject.info"
                    em:description="Proxy Settings :: https://guardianproject.info">
 <em:optionsURL>chrome://proxymob/content/options.xul</em:optionsURL>
@@ -14,7 +14,7 @@
   <Description>
     <em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id>
     <em:minVersion>1.1</em:minVersion>
-    <em:maxVersion>6.0a1</em:maxVersion>
+    <em:maxVersion>15.0a1</em:maxVersion>
   </Description>
 </em:targetApplication>
   </RDF:Description>
