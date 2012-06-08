@@ -4,7 +4,6 @@
 
 <vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <setting pref="network.proxy.type" type="boolint" on="1" off="2" title="Use Proxy"/>
-  <setting pref="network.proxy.no_proxies_on" type="string" title="no proxy on"/>
   <setting pref="network.proxy.http" type="string" title="HTTP Proxy Host"/>
   <setting pref="extensions.proxymob.network.proxy.http_port" type="string" title="HTTP Proxy Port"/> 
   <setting pref="network.proxy.socks" type="string" title="SOCKS Proxy Host"/>
@@ -12,6 +11,7 @@
   <setting pref="network.proxy.socks_remote_dns" type="bool" title="SOCKS Remote DNS"/>
   <setting pref="network.proxy.ssl" type="string" title="SSL Proxy Host"/>
   <setting pref="extensions.proxymob.network.proxy.ssl_port" type="string" title="SSL Proxy Port"/>
+  <setting pref="network.proxy.no_proxies_on" type="string" title="Bypass Proxy For"/>
 </vbox>
 
 
