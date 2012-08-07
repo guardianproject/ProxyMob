@@ -12,5 +12,3 @@
   <setting pref="network.proxy.ssl" type="string" title="SSL Proxy Host"/>
   <setting pref="extensions.proxymob.network.proxy.ssl_port" type="string" title="SSL Proxy Port"/>
 </vbox>
-
-
