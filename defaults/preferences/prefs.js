@@ -11,4 +11,4 @@ pref("network.proxy.type", 1);
 pref("network.proxy.socks_remote_dns",true);
 pref("network.websocket.enabled",false);
 pref("privacy.item.geolocation",false);
-pref("geo.enabled", false);
+pref("geo.enabled",false);
