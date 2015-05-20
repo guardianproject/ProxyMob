@@ -1,1 +1,3 @@
+WARNING: This repo is now deprecated due to the fact that Firefox for Android does not respect proxy settings for fetching favicons. It is not safe to use this add-on with something like Tor to defeat network surveillance of web traffic.
+
 A very basic add-on for Firefox Mobile that allows configuration of proxy settings for HTTP, SOCKS and SSL
